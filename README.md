@@ -1,8 +1,6 @@
 ## My contributions — Ahan Jaiswal
 
-I collaborated on ApneaAid with the team in the [original repository](https://github.com/MadhavAnnachi/ApneaAid). My work focused on researching the approach behind the project and implementing findings from that research in the app.
-
-Some development happened together in person on shared machines, so commit history does not fully reflect my contributions. This fork presents our shared project alongside my role.
+I collaborated on ApneaAid with the team in the [original repository](https://github.com/MadhavAnnachi/ApneaAid). My work as one of the lead developers focused on researching the approach behind the project and implementing findings from that research through signal and data processing and tuning the model we used for apnea detection.
 
 ---
 
